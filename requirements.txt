@@ -1,1 +1,8 @@
+numpy>=1.22.0,<=1.24.3
+tensorflow==2.13.1
+Pillow
 Flask
+gunicorn
+matplotlib
+pandas
+scipy
